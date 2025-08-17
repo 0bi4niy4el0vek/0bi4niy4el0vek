@@ -1,7 +1,7 @@
 <h1 align="center">Welcome here! 👻</h1>
 
 <div align="center">
-  <strong><h3>🚀 Frontend Mobile Developer</h3></strong>
+  <strong><h3>🚀 Mobile Developer</h3></strong>
 </div>
 
 <p align="center">
