@@ -20,7 +20,7 @@ Junior Mobile Developer занимающийся React Native и TypeScript. У�
 
 ### 🌸 About Me
 
-<img align="left" src="https://media.tenor.com/ovlYuc2XMQEAAAAi/astolfo-cat-girl.gif" width="34%"/>
+<img align="left" src="https://media.tenor.com/ovlYuc2XMQEAAAAi/astolfo-cat-girl.gif" width="28%"/>
 <br/>
 
 ```yaml
